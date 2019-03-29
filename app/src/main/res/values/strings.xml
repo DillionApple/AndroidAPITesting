@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MobileTesting</string>
+    <string name="test_location_api">Test Location API</string>
+</resources>
